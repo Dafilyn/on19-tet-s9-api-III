@@ -1,12 +1,19 @@
 {
-  "name": "exercicio-para-casa",
+  "name": "Exercicio-para-casa",
   "version": "1.0.0",
-  "description": "## Nome do Exercicio",
+  "description": "API III",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Manuelly Suzik",
+  "keywords": [
+    "API",
+    "REST",
+    "Node.JS",
+    "Express",
+    "Nodemon"
+  ],
+  "author": "Dafilyn Mariano",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
